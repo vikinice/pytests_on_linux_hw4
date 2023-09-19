@@ -1,0 +1,13 @@
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext:  /home/user2/folder1
+folder_ext3: /home/user2/folder3
+folder_bad: /home/user2/folder2
+stat_file_dir: /home/user2/folder_stat
+count: 5
+bs: 1M
+arc_type: zip
+ip: 0.0.0.0
+user: user2
+passwd: "11"
+pkgname: p7zip-full
